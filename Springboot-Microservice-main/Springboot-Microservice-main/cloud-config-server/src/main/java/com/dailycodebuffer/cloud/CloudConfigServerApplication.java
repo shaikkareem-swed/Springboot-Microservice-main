@@ -1,4 +1,4 @@
-package com.dailycodebuffer.cloud;
+package com.cloud.microservices;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
